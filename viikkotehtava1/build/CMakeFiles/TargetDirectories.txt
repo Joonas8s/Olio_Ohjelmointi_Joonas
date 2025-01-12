@@ -1,0 +1,7 @@
+C:/Users/joona/Documents/GitHub/Olio_ohjelmointi_Joonas/viikkotehtava1/build/CMakeFiles/viikkotehtava1.dir
+C:/Users/joona/Documents/GitHub/Olio_ohjelmointi_Joonas/viikkotehtava1/build/CMakeFiles/edit_cache.dir
+C:/Users/joona/Documents/GitHub/Olio_ohjelmointi_Joonas/viikkotehtava1/build/CMakeFiles/rebuild_cache.dir
+C:/Users/joona/Documents/GitHub/Olio_ohjelmointi_Joonas/viikkotehtava1/build/CMakeFiles/list_install_components.dir
+C:/Users/joona/Documents/GitHub/Olio_ohjelmointi_Joonas/viikkotehtava1/build/CMakeFiles/install.dir
+C:/Users/joona/Documents/GitHub/Olio_ohjelmointi_Joonas/viikkotehtava1/build/CMakeFiles/install/local.dir
+C:/Users/joona/Documents/GitHub/Olio_ohjelmointi_Joonas/viikkotehtava1/build/CMakeFiles/install/strip.dir
